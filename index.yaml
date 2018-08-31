@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  livelo-spring:
+  - appVersion: "1.0"
+    created: 2018-08-31T15:53:04.336810947-03:00
+    description: A Helm chart for Kubernetes
+    digest: ca720741b650472917a392582e46315f94f22d3aba157db3c55068acc5a55cf2
+    keywords:
+    - spring
+    - k8s
+    name: livelo-spring
+    sources:
+    - https://stash.pontoslivelo.com.br/projects/PI/repos/repo-chart
+    urls:
+    - livelo-spring-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-08-31T15:53:04.336305223-03:00

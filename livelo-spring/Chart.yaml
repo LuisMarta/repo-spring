@@ -1,0 +1,9 @@
+appVersion: "1.0"
+description: A Helm chart for Kubernetes
+name: livelo-spring
+keywords:
+  - spring
+  - k8s
+sources:
+  - https://stash.pontoslivelo.com.br/projects/PI/repos/repo-chart
+version: 0.1.0
